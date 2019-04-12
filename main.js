@@ -25,3 +25,4 @@ function password() {
     } else {
         alert('ACCESS REJEKT');
     }
+}
